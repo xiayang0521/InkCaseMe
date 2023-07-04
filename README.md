@@ -44,7 +44,7 @@ https://github.com/xiayang0521/InkCaseMe/releases/download/%E5%A2%A8%E6%B0%B4%E5
 
 ![image](https://github.com/xiayang0521/InkCaseMe/assets/23094327/77f628e1-b832-4144-841c-c12274a14c5c)
 
-10. 打开有大佬diy固件的文件夹
+10. 找到有大佬diy固件的文件夹AndroidTool_NewSys\rockdev\Image
 
 11. 打开刷机工具，再次长按开机键，软件界面发现loader设备
 
